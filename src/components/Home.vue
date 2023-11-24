@@ -73,6 +73,7 @@ export default {
             542
           </p>
           <img alt="秩父の自然" src="@/assets/chichibu.jpg">
+          Photo by <a href="https://unsplash.com/@sophiayame?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Sophia Ayame</a> on <a href="https://unsplash.com/photos/people-walking-on-street-during-daytime-WZCM-ZrKcxA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
         </div>
         <div class="experience">
           <h3>富士山登山ツアー</h3>
@@ -165,7 +166,7 @@ h3 {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
-.recommend {
+.experiences {
   width: 100%;
   display: grid;
   position: relative;
@@ -184,7 +185,7 @@ h3 {
   overflow-x: auto;
 }
 
-.recommend .experience img {
+.experience img {
   width: 100%;
   height: 200px;
   object-fit: cover;
@@ -192,13 +193,6 @@ h3 {
   border-radius: 2%;
 }
 
-.experience img {
-  width: 100%;
-  height: 500px;
-  object-fit: cover;
-  margin-top: 1rem;
-  border-radius: 2%;
-}
 
 .experience:hover {
   cursor: pointer;
