@@ -12,6 +12,7 @@ export default {
       <h2 style="border-left: 5px solid red;">TechMatrixさんへのおすすめ</h2>
       <div class="experiences recommend">
         <div class="experience">
+          <p>@user-one</p>
           <h3>精進料理体験</h3>
           <p>京都府○×市の△寺で食べられる精進料理を紹介！</p>
           <p>お一人様: <strong>￥12,000〜</strong></p>
@@ -26,6 +27,7 @@ export default {
           <img alt="精進" src="@/assets/shojin.jpeg">
         </div>
         <div class="experience">
+          <p>@user-two</p>
           <h3>古民家茶道体験</h3>
           <p>岡山県○×市△町の古民家にで茶道を２時間ほど教わるレッスン</p>
           <p>お一人様: <strong>￥2,000</strong></p>
@@ -40,6 +42,7 @@ export default {
           <img alt="家" src="@/assets/house.jpg">
         </div>
         <div class="experience">
+          <p>@user-three</p>
           <h3>キャンプ体験</h3>
           <p>東京郊外で行えるおすすめのキャンプ場を紹介します</p>
           <p>お一人様: <strong>￥6,500〜</strong></p>
