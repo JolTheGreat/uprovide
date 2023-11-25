@@ -54,7 +54,7 @@ export default {
             <font-awesome-icon icon="fa-regular fa-heart" style="color: red"/>
             988
           </p>
-          <img alt="漁船" src="@/assets/gyosen.jpg">
+          <img alt="漁船" src="@/assets/camp.jpeg">
         </div>
       </div>
 
