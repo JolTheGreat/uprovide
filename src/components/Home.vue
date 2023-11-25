@@ -178,6 +178,7 @@ h3 {
 }
 
 .experience {
+  background-color: white;
   width: 80%;
   margin: 2rem;
   border: 1px solid black;
