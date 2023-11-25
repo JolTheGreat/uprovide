@@ -12,9 +12,9 @@ export default {
       <h2 style="border-left: 5px solid red;">TechMatrixさんへのおすすめ</h2>
       <div class="experiences recommend">
         <div class="experience">
-          <h3>[京都] 精進料理体験</h3>
-          <p>京都府○×市の△寺で精進料理をいただくことができます。</p>
-          <p>お一人様: <strong>￥12,000</strong></p>
+          <h3>精進料理体験</h3>
+          <p>京都府○×市の△寺で食べられる精進料理を紹介！</p>
+          <p>お一人様: <strong>￥12,000〜</strong></p>
           <p>
             <font-awesome-icon icon="fa-solid fa-star" style="color: gold"/>
             4.23
@@ -40,9 +40,9 @@ export default {
           <img alt="家" src="@/assets/house.jpg">
         </div>
         <div class="experience">
-          <h3>[初心者大歓迎]　東京湾で釣りに挑戦しよう！</h3>
-          <p>東京湾の美しい風景を眺めながら、楽しく充実した釣り体験を楽しめます！</p>
-          <p>お一人様: <strong>￥6,500</strong></p>
+          <h3>キャンプ体験</h3>
+          <p>東京郊外で行えるおすすめのキャンプ場を紹介します</p>
+          <p>お一人様: <strong>￥6,500〜</strong></p>
           <p>
             <font-awesome-icon icon="fa-solid fa-star" style="color: gold"/>
             4.67
@@ -94,7 +94,7 @@ export default {
         <div class="experience">
           <h3>京都のお寺での写経体験</h3>
           <p>京都の静かなお寺で、写経の体験を行います。</p>
-          <p>お一人様: <strong>￥3,500</strong></p>
+          <p>お一人様: <strong>￥3,500〜</strong></p>
           <p>
             <font-awesome-icon icon="fa-solid fa-star" style="color: gold"/>
             4.36
